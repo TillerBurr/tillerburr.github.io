@@ -1,0 +1,49 @@
+baseURL = 'tillerburr.github.io'
+languageCode = 'en-us'
+title = "Tyler's Mind"
+theme = "PaperMod"
+pygmentsUseClasses = true
+
+[params]
+description = "A personal blog about tech, learning and random stuff."
+
+[params.assets]
+disableHLJS = true
+
+[params.homeInfoParams]
+Title = "Hi There, I'm Tyler."
+Content = """I create software and solve problems."""
+
+[[params.socialIcons]]
+name = "github"
+title = "Github"
+url = "https://github.com/tillerburr"
+
+[[params.socialIcons]]
+name = "linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/tjbaur"
+
+[markup]
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = true
+noClasses = false
+style = "catpuccin-frappe"
+tabWidth = 4
+
+# [[menu.main]]
+# name = "Archive"
+# url = "archives"
+# weight = 5
+
+[[menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+# [[menu.main]]
+# name = "Tags"
+# url = "tags/"
+# weight = 10
