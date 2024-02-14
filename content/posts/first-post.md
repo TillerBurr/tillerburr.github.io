@@ -20,7 +20,7 @@ based on [ThePrimeagen's Keyboards](https://github.com/ThePrimeagen/keyboards))
 
 I live in Wisconsin. I have a wonderful wife and 4 kids (8 and under). I love learning,
 solving problems and just having my mind challenged. My current position is Data Science
-Engineer. I do about 50% Data Science ane 50% Software Engineering.
+Engineer. I do about 50% Data Science and 50% Software Engineering.
 
 I have a PhD in Math with a Statistics Concentration. Statistics is a really cool field
 that takes a small subset of a population and find useful information about the

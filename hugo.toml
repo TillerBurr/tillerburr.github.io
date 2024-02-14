@@ -1,8 +1,12 @@
-baseURL = 'tillerburr.github.io'
+baseURL = 'https://tillerburr.github.io'
 languageCode = 'en-us'
 title = "Tyler's Mind"
 theme = "PaperMod"
 pygmentsUseClasses = true
+enableEmoji = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
 
 [params]
 description = "A personal blog about tech, learning and random stuff."
